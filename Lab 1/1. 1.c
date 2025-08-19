@@ -2,9 +2,9 @@
 #include<conio.h>
 int main()
 {
-	printf("Name: Anish Gautam\n");
+	printf("Name: Nipun Tandukar\n");
 	printf("Adress: Ekantakuna, Lalitpur\n");
-	printf("Phone Number: 9824417622\n");
-	printf("Date of Birth: 2061/05/09\n");
+	printf("Phone Number: 9869131369\n");
+	printf("Date of Birth: 2062/08/15\n");
 	getch();
 }
